@@ -1,0 +1,101 @@
+user_id,email,signup_date,acquisition_channel,country,account_status
+1,john.smith@gmail.com,2024-01-15,Organic,United States,Active
+2,sarah.jones@yahoo.com,2024-01-18,Google Ads,US,Active
+3,michael.brown@outlook.com,2024-01-22,,Canada,Active
+4,emily.davis@gmail.com,2024-02-03,Facebook,USA,Active
+5,david.wilson@hotmail.com,2024-02-10,Organic,United Kingdom,Churned
+6,jessica.miller@gmail.com,2024-02-15,Referral,US,Active
+7,james.taylor@yahoo.com,2024-02-20,Google Ads,Australia,Active
+8,linda.anderson@gmail.com,2024-03-01,LinkedIn,United States,Active
+9,robert.thomas@outlook.com,2024-03-05,Organic,Canada,Active
+10,maria.martinez@gmail.com,2024-03-12,,USA,Active
+11,william.jackson@yahoo.com,2024-03-18,Facebook,UK,Churned
+12,elizabeth.white@gmail.com,2024-03-25,Google Ads,US,Active
+13,christopher.harris@hotmail.com,2024-04-02,Referral,Australia,Active
+14,jennifer.martin@gmail.com,2024-04-08,Organic,United States,Active
+15,daniel.thompson@yahoo.com,2024-04-15,LinkedIn,Canada,Active
+16,patricia.garcia@outlook.com,2024-04-22,,US,Active
+17,matthew.martinez@gmail.com,2024-05-01,Google Ads,USA,Active
+18,lisa.robinson@yahoo.com,2024-05-08,Facebook,United Kingdom,Active
+19,mark.clark@gmail.com,2024-05-15,Organic,US,Churned
+20,nancy.rodriguez@hotmail.com,2024-05-22,Referral,Australia,Active
+21,paul.lewis@gmail.com,2024-06-01,LinkedIn,United States,Active
+22,karen.lee@yahoo.com,2024-06-08,,Canada,Active
+23,steven.walker@outlook.com,2024-06-15,Google Ads,US,Active
+24,betty.hall@gmail.com,2024-06-22,Facebook,USA,Active
+25,kevin.allen@yahoo.com,2024-07-01,Organic,UK,Active
+26,helen.young@gmail.com,2024-07-08,Referral,United States,Active
+27,jason.hernandez@hotmail.com,2024-07-15,Google Ads,Australia,Active
+28,donna.king@gmail.com,2024-07-22,LinkedIn,US,Churned
+29,ryan.wright@yahoo.com,2024-08-01,,Canada,Active
+30,carol.lopez@outlook.com,2024-08-08,Facebook,United States,Active
+31,gary.hill@gmail.com,2024-08-15,Organic,USA,Active
+32,sandra.scott@yahoo.com,2024-08-22,Google Ads,US,Active
+33,anthony.green@gmail.com,2024-09-01,Referral,United Kingdom,Active
+34,ashley.adams@hotmail.com,2024-09-08,LinkedIn,Australia,Active
+35,brian.baker@gmail.com,2024-09-15,Organic,United States,Active
+36,kimberly.gonzalez@yahoo.com,2024-09-22,,Canada,Active
+37,thomas.nelson@outlook.com,2024-10-01,Google Ads,US,Active
+38,michelle.carter@gmail.com,2024-10-08,Facebook,USA,Churned
+39,timothy.mitchell@yahoo.com,2024-10-15,Organic,UK,Active
+40,amanda.perez@gmail.com,2024-10-22,Referral,United States,Active
+41,george.roberts@hotmail.com,2024-11-01,LinkedIn,Australia,Active
+42,deborah.turner@gmail.com,2024-11-08,Google Ads,US,Active
+43,kenneth.phillips@yahoo.com,2024-11-15,,Canada,Active
+44,stephanie.campbell@outlook.com,2024-11-22,Facebook,United States,Active
+45,joshua.parker@gmail.com,2024-12-01,Organic,USA,Active
+46,sharon.evans@yahoo.com,2024-12-08,Referral,US,Active
+47,edward.edwards@gmail.com,2024-12-15,Google Ads,United Kingdom,Active
+48,dorothy.collins@hotmail.com,2024-12-22,LinkedIn,Australia,Active
+49,benjamin.stewart@gmail.com,2025-01-05,Organic,United States,Active
+50,angela.sanchez@yahoo.com,2025-01-12,,Canada,Active
+51,alexander.morris@outlook.com,2025-01-19,Facebook,US,Active
+52,rebecca.rogers@gmail.com,2025-01-26,Google Ads,USA,Active
+53,jacob.reed@yahoo.com,2024-02-28,Referral,United Kingdom,Suspended
+54,cynthia.cook@gmail.com,2024-03-30,LinkedIn,US,Active
+55,nicholas.morgan@hotmail.com,2024-04-29,Organic,Australia,Active
+56,kathleen.bell@gmail.com,2024-05-30,,United States,Active
+57,tyler.murphy@yahoo.com,2024-06-28,Google Ads,Canada,Churned
+58,ruth.bailey@outlook.com,2024-07-30,Facebook,US,Active
+59,phillip.rivera@gmail.com,2024-08-29,Organic,USA,Active
+60,virginia.cooper@yahoo.com,2024-09-28,Referral,United Kingdom,Active
+61,carl.richardson@gmail.com,2024-10-29,LinkedIn,Australia,Active
+62,diane.cox@hotmail.com,2024-11-28,Google Ads,United States,Active
+63,douglas.howard@gmail.com,2024-12-28,,US,Active
+64,joyce.ward@yahoo.com,2025-01-15,Facebook,Canada,Active
+65,henry.torres@outlook.com,2024-01-20,Organic,USA,Active
+66,teresa.peterson@gmail.com,2024-02-17,Referral,US,Active
+67,peter.gray@yahoo.com,2024-03-19,Google Ads,United Kingdom,Churned
+68,frances.ramirez@gmail.com,2024-04-18,LinkedIn,Australia,Active
+69,andrew.james@hotmail.com,2024-05-19,Organic,United States,Active
+70,marie.watson@gmail.com,2024-06-17,,Canada,Active
+71,harold.brooks@yahoo.com,2024-07-18,Facebook,US,Active
+72,janice.kelly@outlook.com,2024-08-17,Google Ads,USA,Active
+73,russell.sanders@gmail.com,2024-09-18,Referral,United Kingdom,Active
+74,ann.price@yahoo.com,2024-10-17,LinkedIn,US,Active
+75,jack.bennett@gmail.com,2024-11-18,Organic,Australia,Active
+76,kathryn.wood@hotmail.com,2024-12-17,,United States,Churned
+77,jeremy.barnes@gmail.com,2025-01-08,Google Ads,Canada,Active
+78,alice.ross@yahoo.com,2024-01-25,Facebook,US,Active
+79,jonathan.henderson@outlook.com,2024-02-24,Organic,USA,Active
+80,judy.coleman@gmail.com,2024-03-24,Referral,United Kingdom,Active
+81,willie.jenkins@yahoo.com,2024-04-24,LinkedIn,Australia,Active
+82,denise.perry@gmail.com,2024-05-25,,United States,Active
+83,arthur.powell@hotmail.com,2024-06-24,Google Ads,US,Active
+84,marilyn.long@gmail.com,2024-07-25,Facebook,Canada,Active
+85,eugene.patterson@yahoo.com,2024-08-24,Organic,USA,Active
+86,gloria.hughes@outlook.com,2024-09-24,Referral,US,Active
+87,gerald.flores@gmail.com,2024-10-25,LinkedIn,United Kingdom,Active
+88,theresa.washington@yahoo.com,2024-11-24,Google Ads,Australia,Active
+89,lawrence.butler@gmail.com,2024-12-24,,United States,Active
+90,evelyn.simmons@hotmail.com,2025-01-20,Facebook,Canada,Active
+91,sean.foster@gmail.com,2024-02-05,Organic,US,Active
+92,sara.gonzales@yahoo.com,2024-03-07,Referral,USA,Churned
+93,austin.bryant@outlook.com,2024-04-06,Google Ads,United Kingdom,Active
+94,christina.alexander@gmail.com,2024-05-07,LinkedIn,US,Active
+95,jesse.russell@yahoo.com,2024-06-06,Organic,Australia,Active
+96,barbara.griffin@gmail.com,2024-07-07,,United States,Active
+97,louis.diaz@hotmail.com,2024-08-06,Facebook,Canada,Active
+98,jean.hayes@gmail.com,2024-09-07,Google Ads,US,Active
+99,albert.myers@yahoo.com,2024-10-06,Referral,USA,Active
+100,rose.ford@outlook.com,2024-11-07,LinkedIn,United Kingdom,Active

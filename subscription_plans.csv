@@ -1,0 +1,8 @@
+plan_id,plan_name,price,billing_period,features
+BASIC_M,Basic Monthly,15,Monthly,Access to 50 courses|Mobile app|Email support
+BASIC_Y,Basic Annual,150,Annual,Access to 50 courses|Mobile app|Email support|2 months free
+PRO_M,Pro Monthly,35,Monthly,Access to 200 courses|Mobile app|Priority support|Certificates|Download videos
+PRO_Y,Pro Annual,350,Annual,Access to 200 courses|Mobile app|Priority support|Certificates|Download videos|2 months free
+PREMIUM_M,Premium Monthly,75,Monthly,Unlimited courses|Mobile app|24/7 support|Certificates|Download videos|1-on-1 mentoring
+PREMIUM_Y,Premium Annual,750,Annual,Unlimited courses|Mobile app|24/7 support|Certificates|Download videos|1-on-1 mentoring|2 months free
+TEAM_M,Team Plan,100,Monthly,5 user seats|Unlimited courses|Admin dashboard|Team analytics|Priority support
