@@ -1,4 +1,4 @@
-# 📊 SkillStream Pro: Subscription Revenue Optimization with SQL
+# 📊 SkillStream Pro: Subscription Revenue Optimization with SQL and EXCEL
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-success)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
@@ -7,7 +7,7 @@
 
 ## 🎯 Project Overview
 
-A comprehensive SQL and excel analytics project solving a real-world SaaS business challenge: **SkillStream Pro**, a digital learning platform with 50,000 subscribers, experiencing an **18% revenue per user decline** despite growing user base.
+A comprehensive SQL and Excel analytics project solving a real-world SaaS business challenge: **SkillStream Pro**, a digital learning platform with 50,000 subscribers, experiencing an **18% revenue per user decline** despite growing user base.
 
 This project demonstrates advanced SQL capabilities for subscription revenue optimization, churn prediction, and customer lifetime value analysis—skills directly applicable to roles at companies like Netflix, Spotify, LinkedIn, Salesforce, and any subscription-based business.
 
@@ -30,27 +30,27 @@ This project demonstrates advanced SQL capabilities for subscription revenue opt
 
 ## 💡 Key Insights Delivered
 
-### 1️⃣ Churn Prediction
+### 1️ Churn Prediction
 - **80% churn probability** after 30+ days of inactivity
 - Payment failure patterns strongly correlate with cancellation risk
 - Early intervention can save $90K in annual recurring revenue
 
-### 2️⃣ Retention Drivers  
+### 2️ Retention Drivers  
 - Users completing **2+ courses in first 7 days** have **3x retention rate**
 - Optimal activation metric identified for onboarding optimization
 - Engagement threshold: 10+ total courses completed drives 45% upgrade rate
 
-### 3️⃣ Acquisition Channel ROI
+### 3️ Acquisition Channel ROI
 - **Referral & LinkedIn channels** produce 2.5x higher customer LTV than Facebook/Google Ads
 - Marketing budget reallocation could improve average LTV by 25%
 - Low-performing channels identified for optimization or elimination
 
-### 4️⃣ Pricing Strategy Validation
+### 4️ Pricing Strategy Validation
 - Annual billing shows stronger retention but underperforms industry discount standards
 - Upgrade/downgrade trends reveal pricing elasticity by customer segment
 - Optimal price points identified through conversion and retention analysis
 
-### 5️⃣ Revenue Recovery Opportunities
+### 5️ Revenue Recovery Opportunities
 - **Payment failure recovery** improvement: 30% → 65% adds $15K MRR
 - Targeted retention campaigns for high-risk, high-value users: 300% ROI
 - Predictive churn alerting system reduces churn by 2-3 percentage points
